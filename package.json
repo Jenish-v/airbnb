@@ -1,7 +1,7 @@
 {
   "name": "airbnb-private-api",
   "version": "1.0.7",
-  "main": "./lib/index.js",
+  "main": "./index.js",
   "types": "./lib/index.d.ts",
   "homepage": "https://github.com/drawrowfly/airbnb-private-api",
   "bugs": {
