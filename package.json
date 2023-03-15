@@ -15,6 +15,7 @@
     "lib"
   ],
   "scripts": {
+    "start": "index.ts",
     "build": "rimraf lib && tsc && prettier --config ./.prettierrc.js --write './lib/**/*.js'",
     "format": "prettier --config ./.prettierrc.js --write './src/**/*.ts'",
     "lint": "eslint ./src/**/*.ts",
